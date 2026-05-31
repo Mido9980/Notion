@@ -1,0 +1,8 @@
+{
+  "name": "Remix: VStudio Code",
+  "description": "A high-fidelity mobile IDE code editor resembling VS Code with syntax highlighting, visual themes, local workspace folders persistence, and compiler sandbox emulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
